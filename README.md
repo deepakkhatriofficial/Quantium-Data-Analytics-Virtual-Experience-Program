@@ -1,13 +1,4 @@
-Quantium Data Analytics Virtual Experience Program
-Dependencies
-Language: Python 3.8
-Libraries:
-- pandas
-- matplotlib
-- mlxtend
-- datetime
-- sklearn
-- scipy
+
 Project Overview
 The program is divided into three tasks:
 1. Data Preparation and Customer Analytics

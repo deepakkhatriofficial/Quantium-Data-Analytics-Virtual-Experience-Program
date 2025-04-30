@@ -8,5 +8,4 @@
 
 1.Data preparation and Customer Segmentation Analysis
 
-2.Experimentation and uplift testing.
 

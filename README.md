@@ -10,4 +10,3 @@
 
 2.Experimentation and uplift testing.
 
-3.Analytics and commercial application.

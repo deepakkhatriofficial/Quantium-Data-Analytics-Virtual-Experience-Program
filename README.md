@@ -6,6 +6,5 @@
 
 **My submission of this program's 3 tasks:**
 
-1.Data preparation and Customer Segmentation Analysis
 
 
